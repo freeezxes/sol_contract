@@ -1,0 +1,9 @@
+[programs.devnet]
+citychests_vault = "<PROGRAM_ID>"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[features]
+seeds = true
